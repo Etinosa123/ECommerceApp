@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949082786925",
+    "project_id": "ecommerce-app-48c05",
+    "storage_bucket": "ecommerce-app-48c05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949082786925:android:65a50c3ec0ebb6a875c364",
+        "android_client_info": {
+          "package_name": "com.hfad.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949082786925-qtv0708p076ijp0inqe5slhk731otpa6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvpFKFKaRNoTv5M_PhHDfyzZx91SQqF10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949082786925-qtv0708p076ijp0inqe5slhk731otpa6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
